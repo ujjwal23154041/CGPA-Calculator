@@ -54,8 +54,11 @@ cgpa-calculator-cpp/
 ## 🎯 Learning Outcomes
 
 1.Understanding class design in C++
+
 2.Working with loops and conditionals
+
 3.Using functions inside classes
+
 4.Applying real-world academic calculations
 
 
