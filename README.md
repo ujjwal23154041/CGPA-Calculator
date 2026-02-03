@@ -51,6 +51,16 @@ cgpa-calculator-cpp/
 ├── README.md
 
 
+## 🎯 Learning Outcomes
+
+1.Understanding class design in C++
+2.Working with loops and conditionals
+3.Using functions inside classes
+4.Applying real-world academic calculations
+
+
+
+
 ---
 
 ## ▶️ How to Run the Program
@@ -67,14 +77,6 @@ g++ CGPA_Calculator.cpp -o cgpa
 1. Enter Course Details
 2. Display CGPA
 3. Exit
-
-## 🎯 Learning Outcomes
-
-1.Understanding class design in C++
-2.Working with loops and conditionals
-3.Using functions inside classes
-4.Applying real-world academic calculations
-
 
 
 
